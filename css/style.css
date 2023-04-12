@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.myColor{
+    color: #49A000 !important;
+}
+.myBgColor{
+    background-color: #59AB6E !important;
+}
+.logo{
+color: #49A000;
+font-size: 42px;
+font-weight: 700;
+
+}
+.heroSection{
+    background-color: #EFEFEF;
+}
